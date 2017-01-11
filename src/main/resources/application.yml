@@ -1,0 +1,7 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: https://nameless-bayou-22996.herokuapp.com/eureka/
+      
+
+
